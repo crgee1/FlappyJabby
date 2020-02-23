@@ -7,8 +7,8 @@ const CONSTANTS = {
   GRAVITY:  0.4,
   FLAP_SPEED:  8,
   TERMINAL_VEL:  12,
-  BIRD_WIDTH:  40,
-  BIRD_HEIGHT:  30
+  BIRD_WIDTH:  80,
+  BIRD_HEIGHT:  60
 };
 
 export default class Bird {

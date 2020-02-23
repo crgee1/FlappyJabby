@@ -1,6 +1,6 @@
 const CONSTANTS = {
   PIPE_SPEED: 2,
-  GAP_HEIGHT: 150,
+  GAP_HEIGHT: 200,
   PIPE_WIDTH: 50,
   EDGE_BUFFER: 50,
   PIPE_SPACING: 220,
@@ -111,11 +111,11 @@ export default class Level {
       //this function returns true if the the rectangles overlap
     const _overlap = (rect1, rect2) => {
       //check that they don't overlap in the x axis
-      if (rect1.left > rect2.right || rect1.right < rect2.left) {
+      if (rect1.left > rect2.right - 15 || rect1.right < rect2.left + 10) {
         return false;
       }
       //check that they don't overlap in the y axis
-      if (rect1.top > rect2.bottom || rect1.bottom < rect2.top) {
+      if (rect1.top > rect2.bottom - 15 || rect1.bottom < rect2.top+5) {
         return false;
       }
       return true;
