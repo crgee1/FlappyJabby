@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Monopoly/static/css/main.20a873e6.chunk.css",
-    "main.js": "/Monopoly/static/js/main.eedd0f8f.chunk.js",
-    "main.js.map": "/Monopoly/static/js/main.eedd0f8f.chunk.js.map",
-    "runtime-main.js": "/Monopoly/static/js/runtime-main.73c13deb.js",
-    "runtime-main.js.map": "/Monopoly/static/js/runtime-main.73c13deb.js.map",
-    "static/js/2.6991b4c5.chunk.js": "/Monopoly/static/js/2.6991b4c5.chunk.js",
-    "static/js/2.6991b4c5.chunk.js.map": "/Monopoly/static/js/2.6991b4c5.chunk.js.map",
-    "index.html": "/Monopoly/index.html",
-    "precache-manifest.dd21efac265d6c394b70d0acb3057b16.js": "/Monopoly/precache-manifest.dd21efac265d6c394b70d0acb3057b16.js",
-    "service-worker.js": "/Monopoly/service-worker.js",
-    "static/css/main.20a873e6.chunk.css.map": "/Monopoly/static/css/main.20a873e6.chunk.css.map",
-    "static/js/2.6991b4c5.chunk.js.LICENSE.txt": "/Monopoly/static/js/2.6991b4c5.chunk.js.LICENSE.txt",
-    "static/media/jordanphoto.png": "/Monopoly/static/media/jordanphoto.0b0cf605.png"
+    "main.css": "/FlappyJabby/static/css/main.20a873e6.chunk.css",
+    "main.js": "/FlappyJabby/static/js/main.c81ac42e.chunk.js",
+    "main.js.map": "/FlappyJabby/static/js/main.c81ac42e.chunk.js.map",
+    "runtime-main.js": "/FlappyJabby/static/js/runtime-main.68499b6c.js",
+    "runtime-main.js.map": "/FlappyJabby/static/js/runtime-main.68499b6c.js.map",
+    "static/js/2.6991b4c5.chunk.js": "/FlappyJabby/static/js/2.6991b4c5.chunk.js",
+    "static/js/2.6991b4c5.chunk.js.map": "/FlappyJabby/static/js/2.6991b4c5.chunk.js.map",
+    "index.html": "/FlappyJabby/index.html",
+    "precache-manifest.15f83aacd3e6fd61ca6e5b2c31e35eed.js": "/FlappyJabby/precache-manifest.15f83aacd3e6fd61ca6e5b2c31e35eed.js",
+    "service-worker.js": "/FlappyJabby/service-worker.js",
+    "static/css/main.20a873e6.chunk.css.map": "/FlappyJabby/static/css/main.20a873e6.chunk.css.map",
+    "static/js/2.6991b4c5.chunk.js.LICENSE.txt": "/FlappyJabby/static/js/2.6991b4c5.chunk.js.LICENSE.txt",
+    "static/media/jordanphoto.png": "/FlappyJabby/static/media/jordanphoto.0b0cf605.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.73c13deb.js",
+    "static/js/runtime-main.68499b6c.js",
     "static/js/2.6991b4c5.chunk.js",
     "static/css/main.20a873e6.chunk.css",
-    "static/js/main.eedd0f8f.chunk.js"
+    "static/js/main.c81ac42e.chunk.js"
   ]
 }
