@@ -1,3 +1,8 @@
+import jordan from '../assets/images/jordanphoto.png';
+
+const jordanPic = new Image();
+jordanPic.src = jordan;
+
 const CONSTANTS = {
   GRAVITY:  0.4,
   FLAP_SPEED:  8,
@@ -47,8 +52,9 @@ export default class Bird {
   }
 
   drawBird(ctx){
-    ctx.fillStyle = "yellow";
-    ctx.fillRect(this.x, this.y, CONSTANTS.BIRD_WIDTH, CONSTANTS.BIRD_HEIGHT);
+    ctx.drawImage(jordanPic, this.x, this.y, CONSTANTS.BIRD_WIDTH, CONSTANTS.BIRD_HEIGHT);
+    // ctx.fillStyle = "yellow";
+    // ctx.fillRect(this.x, this.y, CONSTANTS.BIRD_WIDTH, CONSTANTS.BIRD_HEIGHT);
   }
 
   bounds() {
