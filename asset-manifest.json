@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Monopoly/static/css/main.d1b05096.chunk.css",
+    "main.js": "/Monopoly/static/js/main.eedd0f8f.chunk.js",
+    "main.js.map": "/Monopoly/static/js/main.eedd0f8f.chunk.js.map",
+    "runtime-main.js": "/Monopoly/static/js/runtime-main.73c13deb.js",
+    "runtime-main.js.map": "/Monopoly/static/js/runtime-main.73c13deb.js.map",
+    "static/js/2.6991b4c5.chunk.js": "/Monopoly/static/js/2.6991b4c5.chunk.js",
+    "static/js/2.6991b4c5.chunk.js.map": "/Monopoly/static/js/2.6991b4c5.chunk.js.map",
+    "index.html": "/Monopoly/index.html",
+    "precache-manifest.6ecef2979be624308a0e3b7ca1feeb6c.js": "/Monopoly/precache-manifest.6ecef2979be624308a0e3b7ca1feeb6c.js",
+    "service-worker.js": "/Monopoly/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/Monopoly/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.6991b4c5.chunk.js.LICENSE.txt": "/Monopoly/static/js/2.6991b4c5.chunk.js.LICENSE.txt",
+    "static/media/jordanphoto.png": "/Monopoly/static/media/jordanphoto.0b0cf605.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.73c13deb.js",
+    "static/js/2.6991b4c5.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.eedd0f8f.chunk.js"
+  ]
+}
